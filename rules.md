@@ -1,3 +1,6 @@
+###  电脑
+
+````
 baidu.com###s-top-left
 baidu.com##.s-top-left.s-isindex-wrap
 baidu.com##.s-hotsearch-wrapper
@@ -20,3 +23,4 @@ jianshu.com##._1aCo37-mask
 ||static.zhihu.com/heifetz/main.signflow.*.js
 ||static.zhihu.com/heifetz/column.signflow.*.js
 ||s4.51cto.com/images/blog/202104/15/2e51d7f99b3e414b0c7c47e4088d1b88.jpg
+````
